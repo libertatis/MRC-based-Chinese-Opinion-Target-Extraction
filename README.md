@@ -1,6 +1,10 @@
 # MRC-based-Chinese-Opinion-Target-Extraction
 Implementation of Chinese Opinion Target Extraction  based on Extractive MRC framework
 
+# Official Competition website
+
+https://aistudio.baidu.com/aistudio/competition/detail/50
+
 # requirments
 
 - python 3.7
